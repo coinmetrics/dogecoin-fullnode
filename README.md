@@ -1,16 +1,16 @@
 # Dogecoin docker image
 
-[![Docker Repository on Quay](https://quay.io/repository/coinmetrics/fullnode-dogecoin/status "Docker Repository on Quay")](https://quay.io/repository/coinmetrics/fullnode-dogecoin)
+This is unofficial Dogecoin docker image.
+
+It is being used internally at Coin Metrics, and is published in the hope it will be useful, but without any warranty. No support is available. You are using it at your own risk.
 
 ## Using image
+
+[![Docker Repository on Quay](https://quay.io/repository/coinmetrics/fullnode-dogecoin/status "Docker Repository on Quay")](https://quay.io/repository/coinmetrics/fullnode-dogecoin)
 
 ```
 docker pull quay.io/coinmetrics/fullnode-dogecoin:<version>
 ```
-
-## Support
-
-This image is being used internally at Coin Metrics. No support is available. You are using it at your own risk.
 
 ## Security
 
